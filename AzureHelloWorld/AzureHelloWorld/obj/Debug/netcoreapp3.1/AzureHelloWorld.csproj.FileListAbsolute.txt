@@ -1,0 +1,15 @@
+C:\Users\iman_\OneDrive\desktop\My Project\C#\AzureHelloWorld\AzureHelloWorld\AzureHelloWorld\bin\Debug\netcoreapp3.1\AzureHelloWorld.exe
+C:\Users\iman_\OneDrive\desktop\My Project\C#\AzureHelloWorld\AzureHelloWorld\AzureHelloWorld\bin\Debug\netcoreapp3.1\AzureHelloWorld.deps.json
+C:\Users\iman_\OneDrive\desktop\My Project\C#\AzureHelloWorld\AzureHelloWorld\AzureHelloWorld\bin\Debug\netcoreapp3.1\AzureHelloWorld.runtimeconfig.json
+C:\Users\iman_\OneDrive\desktop\My Project\C#\AzureHelloWorld\AzureHelloWorld\AzureHelloWorld\bin\Debug\netcoreapp3.1\AzureHelloWorld.runtimeconfig.dev.json
+C:\Users\iman_\OneDrive\desktop\My Project\C#\AzureHelloWorld\AzureHelloWorld\AzureHelloWorld\bin\Debug\netcoreapp3.1\AzureHelloWorld.dll
+C:\Users\iman_\OneDrive\desktop\My Project\C#\AzureHelloWorld\AzureHelloWorld\AzureHelloWorld\bin\Debug\netcoreapp3.1\AzureHelloWorld.pdb
+C:\Users\iman_\OneDrive\desktop\My Project\C#\AzureHelloWorld\AzureHelloWorld\AzureHelloWorld\obj\Debug\netcoreapp3.1\AzureHelloWorld.csprojAssemblyReference.cache
+C:\Users\iman_\OneDrive\desktop\My Project\C#\AzureHelloWorld\AzureHelloWorld\AzureHelloWorld\obj\Debug\netcoreapp3.1\AzureHelloWorld.Form1.resources
+C:\Users\iman_\OneDrive\desktop\My Project\C#\AzureHelloWorld\AzureHelloWorld\AzureHelloWorld\obj\Debug\netcoreapp3.1\AzureHelloWorld.csproj.GenerateResource.cache
+C:\Users\iman_\OneDrive\desktop\My Project\C#\AzureHelloWorld\AzureHelloWorld\AzureHelloWorld\obj\Debug\netcoreapp3.1\AzureHelloWorld.AssemblyInfoInputs.cache
+C:\Users\iman_\OneDrive\desktop\My Project\C#\AzureHelloWorld\AzureHelloWorld\AzureHelloWorld\obj\Debug\netcoreapp3.1\AzureHelloWorld.AssemblyInfo.cs
+C:\Users\iman_\OneDrive\desktop\My Project\C#\AzureHelloWorld\AzureHelloWorld\AzureHelloWorld\obj\Debug\netcoreapp3.1\AzureHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\iman_\OneDrive\desktop\My Project\C#\AzureHelloWorld\AzureHelloWorld\AzureHelloWorld\obj\Debug\netcoreapp3.1\AzureHelloWorld.dll
+C:\Users\iman_\OneDrive\desktop\My Project\C#\AzureHelloWorld\AzureHelloWorld\AzureHelloWorld\obj\Debug\netcoreapp3.1\AzureHelloWorld.pdb
+C:\Users\iman_\OneDrive\desktop\My Project\C#\AzureHelloWorld\AzureHelloWorld\AzureHelloWorld\obj\Debug\netcoreapp3.1\AzureHelloWorld.genruntimeconfig.cache
