@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\AzureHelloWorld",
+    "\\AzureHelloWorld\\AzureHelloWorld"
+  ],
+  "SelectedNode": "\\AzureHelloWorld\\AzureHelloWorld\\Form1.cs",
+  "PreviewInSolutionExplorer": false
+}
